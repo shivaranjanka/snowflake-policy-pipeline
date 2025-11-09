@@ -1,0 +1,4 @@
+policy_id,customer_name,policy_type,premium_amount,status,last_updated
+1001,Ravi Kumar,Term Life,12000,Active,2025-11-01
+1002,Anita Sharma,ULIP,15000,Active,2025-11-01
+1003,Kiran Patel,Health,8000,Lapsed,2025-11-01
